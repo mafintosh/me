@@ -1,3 +1,3 @@
 # me (mathias)
 
-My personal repo where a put various public personal stuff
+My personal repo where I put various public personal stuff
